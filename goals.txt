@@ -1,7 +1,4 @@
 My Personal and Academic Goals for Next Year
-
 Over the next year, my personal goal is to transform all the theoretical skills , 
-I've gained from ALX, TEF Connect, and various internships into practical, real-world impact. I aim to grow Jace Studio into a thriving creative service business that not only generates income but helps other African startups succeed through branding, marketing, and digital innovation.
-
-Academically, I’m working toward building a standout masterclass U.S. college application — especially targeting institutions like UChicago, Berkeley, and Northwestern — and gaining admission with strong financial aid. I plan to deepen my hands-on skills in software engineering, financial analysis, and business strategy while continuing to build products like Young Investors, a gamified micro-investing platform for Kenyan youth. Most importantly, I want to keep evolving as a systems thinker and purpose-driven creator.
+I've gained from ALX, TEF Connect, and various internships into practical, real-world impact. I aim to grow Jace Studio into a thriving creative service business that not only generates income but helps other African startups succeed through branding, marketing, and digital innovation.Academically, I’m working toward building a standout masterclass U.S. college application — especially targeting institutions like UChicago, Berkeley, and Northwestern — and gaining admission with strong financial aid. I plan to deepen my hands-on skills in software engineering, financial analysis, and business strategy while continuing to build products like Young Investors, a gamified micro-investing platform for Kenyan youth. Most importantly, I want to keep evolving as a systems thinker and purpose-driven creator.
 
