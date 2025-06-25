@@ -1,4 +1,4 @@
-"What I have learned in this course"
+"What I have learned from this course"
 Throughout this course, I’ve learned how powerful version control is, especially with Git and GitHub. 
 Understanding concepts like cloning, committing, and pull requests has given me confidence to collaborate 
 on projects and track changes effectively. I now feel more in control of my code and my learning journey and much more confident.
